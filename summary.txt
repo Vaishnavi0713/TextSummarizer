@@ -1,0 +1,1 @@
+ In today's video we will create our second project a YouTube script summarizer using the free source model distal Bart cnn2 to6 which we introduced in our last project . In this project what we are going to do is we will first write a script that will get the content from a YouTube video . We will save that content and pass that content to our model to summarize that text .
